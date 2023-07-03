@@ -14,6 +14,7 @@ which can move forward and backward
         tank.printPosition();
         tank.goBackward(100);
         tank.printPosition();
+        tank.goForward(10);
        
 /* 
 This fragment of code has to output 
